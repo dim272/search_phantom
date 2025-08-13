@@ -19,6 +19,7 @@ Google Scraper with reCAPTCHA Bypass
    ```
 2. Создай .env файл с переменными:
    ```env
+    PROXY_TYPE=http
     PROXY_HOST=your.proxy.host
     PROXY_PORT=3128
     PROXY_USERNAME=user
